@@ -15,6 +15,7 @@ end
 
 def pop_with_args(array)
   array.pop(2)
+  array
 end
 
 def using_shift
@@ -38,3 +39,10 @@ end
 
 def using_flatten(array)
 end
+
+def using_delete(array, string)
+end
+
+def using_delete_at(array, integer)
+end
+  
