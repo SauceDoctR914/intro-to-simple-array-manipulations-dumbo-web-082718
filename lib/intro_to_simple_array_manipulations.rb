@@ -33,4 +33,8 @@ end
 def using_insert
 end
 
-def using_
+def using_uniq(array)
+end
+
+def using_flatten(array)
+end
